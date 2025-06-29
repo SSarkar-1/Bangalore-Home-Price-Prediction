@@ -17,11 +17,7 @@
 
 1. Clone the repository.
 2. Navigate to `Prediction App/server/`.
-3. Install dependencies:
-    ```sh
-    pip install -r requirements.txt
-    ```
-   *(Create `requirements.txt` if not present, with Flask, numpy, pandas, scikit-learn, etc.)*
+
 
 ### Running the Server
 
